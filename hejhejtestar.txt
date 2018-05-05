@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 fågel kvittrarar bajs
+=======
+
+
+
+
+
+
+HEEEEEJ
+>>>>>>> 940b2086439d86f064479ff424895890bc232bd7
